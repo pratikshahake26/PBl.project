@@ -1,1 +1,35 @@
 # PBl.project
+<!DOCTYPE html>
+<html>
+		<head>
+			 <meta hettp-equiv="content-type" content
+			  ="text/html; charset=utf-8"/>
+			 <meta name="" content="">
+			 <title>PBL project</title>
+</head>
+<body>
+<center>
+		<br/>
+		<h1 style="color:red"> Siddh Vinayak Temple,Siddhatek</h1>
+		<h3 class="top"> one of the best Ganesh Temple-<span>Maharashtra</span>
+		</h3>
+	<br/>
+	<br/>
+	<img src="Ganesh.jpg" alt="" />
+	<h1 style=color:red> about Temple</h1>
+	<hr/>
+	<p>The Siddhivinayak Temple of Siddhatek is a Hindu temple dedicated to Ganesha, the elephant-headed god of wisdom. The temple is one of the Ashtavinayaka, the eight revered shrines of Ganesha in the Indian state of Maharashtra and the only Ashtavinayaka shrine in Ahmednagar district.</p>
+ <img src="Temple.jpg" alt=""/> 
+ <h1 style="color:red">Address</h1>
+ <hr/>
+ <p>Place:-Religinious
+    Address:-Shree Siddhivinayak Temple, Taluka, Karjat, Ahmednagar, 414402
+    City:-Ahmednagar
+    Pincode:-414402
+    Country:-India
+    Phone:-022 2422 4438
+    Fax No.:–
+    Timings:– 4.00 AM – 9.15 PM.</p>
+ </center>
+ </body>
+ </html>
